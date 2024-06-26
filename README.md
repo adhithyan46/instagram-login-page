@@ -36,3 +36,4 @@ An image is loaded from a specified file path and displayed on the main window.
 **6.Run the Main Loop:**
 
 The root.mainloop() method is called to start the Tkinter event loop, making the window and its contents interactive.
+insta/Screenshot (151).png
